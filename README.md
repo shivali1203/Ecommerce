@@ -12,10 +12,6 @@
 - MS SQL Server Database
 - Stripe Secret Key
 
-**1. Clone the repository:**
-```shell
-git clone https://github.com/sinnedpenguin/angular-springboot-ecommerce
-```
 
 ### Angular Frontend
 **1. Navigate to the `frontend` directory:**
